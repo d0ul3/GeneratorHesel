@@ -1,0 +1,2 @@
+# GeneratorHesel
+Generuje hesla
